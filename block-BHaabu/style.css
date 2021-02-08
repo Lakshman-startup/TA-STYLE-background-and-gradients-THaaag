@@ -1,0 +1,19 @@
+body {
+    background-image:url("image1.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+}
+.div1{
+    background-image:url("image2.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
